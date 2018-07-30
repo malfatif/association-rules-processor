@@ -1,0 +1,36 @@
+Itens: 172006
+Materiais: 1715
+Pedidos: 37721
+------------------------------------------
+Material - Caneta esferográfica preta que foi pedido:1505
+Caneta esferográfica azul apareceu em 1248 com associação de 82.92% e suporte de 0.03308501895495878 e confiança de 0.8292358803986711
+------------------------------------------
+Material - Caneta esferográfica vermelha que foi pedido:780
+Caneta esferográfica azul apareceu em 630 com associação de 80.77% e suporte de 0.016701572068609 e confiança de 0.8076923076923077
+------------------------------------------
+Material - Açúcar refinado que foi pedido:3357
+Café em pó apareceu em 2863 com associação de 85.28% e suporte de 0.07589936640067867 e confiança de 0.8528448019064641
+------------------------------------------
+Material - Copo descartável para café 50 ml PP que foi pedido:5159
+Copo descartável para água 200 ml PP apareceu em 4523 com associação de 87.67% e suporte de 0.11990668327987063 e confiança de 0.8767202946307424
+------------------------------------------
+Material - Água mineral natural com gás - garrafa de 300 a 350 ml que foi pedido:587
+Água mineral natural sem gás - garrafa de 300 a 350 ml apareceu em 471 com associação de 80.24% e suporte de 0.012486413403674346 e confiança de 0.8023850085178875
+------------------------------------------
+Material - Papel higiênico folha dupla rolão 250 m que foi pedido:1433
+Papel toalha folha dupla - interfolhado apareceu em 1262 com associação de 88.07% e suporte de 0.033456165000927865 e confiança de 0.8806699232379623
+------------------------------------------
+Material - Palha de aço n° 0  (zero) - Tipo fina que foi pedido:247
+Detergente Líquido - frasco 500ml apareceu em 200 com associação de 80.97% e suporte de 0.0053020863709869834 e confiança de 0.8097165991902834
+------------------------------------------
+Material - Apoio ergonômico para os pés que foi pedido:657
+Apoio de punho para teclado apareceu em 602 com associação de 91.63% e suporte de 0.01595927997667082 e confiança de 0.9162861491628614
+Pad mouse com apoio de punho ergonômico apareceu em 606 com associação de 92.24% e suporte de 0.01606532170409056 e confiança de 0.9223744292237442
+------------------------------------------
+Material - Apoio de punho para teclado que foi pedido:642
+Apoio ergonômico para os pés apareceu em 602 com associação de 93.77% e suporte de 0.01595927997667082 e confiança de 0.9376947040498442
+Pad mouse com apoio de punho ergonômico apareceu em 602 com associação de 93.77% e suporte de 0.01595927997667082 e confiança de 0.9376947040498442
+------------------------------------------
+Material - Pad mouse com apoio de punho ergonômico que foi pedido:649
+Apoio ergonômico para os pés apareceu em 606 com associação de 93.37% e suporte de 0.01606532170409056 e confiança de 0.9337442218798151
+Apoio de punho para teclado apareceu em 602 com associação de 92.76% e suporte de 0.01595927997667082 e confiança de 0.9275808936825886

@@ -1,0 +1,250 @@
+Pedidos Analisados: 37721
+Itens de pedidos: 172006
+Materiais distintos: 1715
+
+-------------------------------------------- CONSUMO ------------------------------------------------------------------
+-----------------------------------------------------------------------------------
+O Material "Barbante fino 48 em algodão" que foi pedido 789 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 509 das vezes com associação de 64.51% e suporte de 0.013493809814161872 e confiança de 0.6451204055766794
+-----------------------------------------------------------------------------------
+O Material "Fita adesiva larga - 50mm" que foi pedido 3742 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 2344 das vezes com associação de 62.64% e suporte de 0.062140452267967446 e confiança de 0.6264029930518439
+-----------------------------------------------------------------------------------
+O Material "Fitilho de película de polipropileno" que foi pedido 814 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 515 das vezes com associação de 63.27% e suporte de 0.013652872405291483 e confiança de 0.6326781326781327
+-----------------------------------------------------------------------------------
+O Material "Copo plástico descartável para café - 50ml" que foi pedido 954 vezes. Foi pedido junto com:
+ "Copo descartável para água 200 ml PP" que apareceu em 622 das vezes com associação de 65.20% e suporte de 0.016489488613769518 e confiança de 0.6519916142557652
+-----------------------------------------------------------------------------------
+O Material "Guardanapo de papel" que foi pedido 1241 vezes. Foi pedido junto com:
+ "Copo descartável para água 200 ml PP" que apareceu em 879 das vezes com associação de 70.83% e suporte de 0.023302669600487793 e confiança de 0.7082997582594682
+-----------------------------------------------------------------------------------
+O Material "Almofada para carimbo - tinta azul - nº4 - 150 x 85 mm" que foi pedido 588 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 411 das vezes com associação de 69.90% e suporte de 0.010895787492378252 e confiança de 0.6989795918367347
+-----------------------------------------------------------------------------------
+O Material "Almofada para carimbo - tinta azul - nº3 - 105 x 65 mm" que foi pedido 341 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 213 das vezes com associação de 62.46% e suporte de 0.005646721985101137 e confiança de 0.624633431085044
+-----------------------------------------------------------------------------------
+O Material "Borracha para apagar - bicolor" que foi pedido 515 vezes. Foi pedido junto com:
+ "Caneta esferográfica azul" que apareceu em 326 das vezes com associação de 63.30% e suporte de 0.008642400784708782 e confiança de 0.6330097087378641
+ "Papel sulfite A4 branco 75g" que apareceu em 338 das vezes com associação de 65.63% e suporte de 0.008960525966968003 e confiança de 0.6563106796116505
+-----------------------------------------------------------------------------------
+O Material "Caneta esferográfica azul" que foi pedido 5653 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 3788 das vezes com associação de 67.01% e suporte de 0.10042151586649346 e confiança de 0.6700866796391297
+-----------------------------------------------------------------------------------
+O Material "Caneta esferográfica preta" que foi pedido 1505 vezes. Foi pedido junto com:
+ "Caneta esferográfica azul" que apareceu em 1248 das vezes com associação de 82.92% e suporte de 0.03308501895495878 e confiança de 0.8292358803986711
+ "Papel sulfite A4 branco 75g" que apareceu em 1027 das vezes com associação de 68.24% e suporte de 0.02722621351501816 e confiança de 0.6823920265780731
+-----------------------------------------------------------------------------------
+O Material "Caneta esferográfica vermelha" que foi pedido 780 vezes. Foi pedido junto com:
+ "Caneta esferográfica azul" que apareceu em 630 das vezes com associação de 80.77% e suporte de 0.016701572068609 e confiança de 0.8076923076923077
+ "Papel sulfite A4 branco 75g" que apareceu em 525 das vezes com associação de 67.31% e suporte de 0.013917976723840831 e confiança de 0.6730769230769231
+-----------------------------------------------------------------------------------
+O Material "Clips para papéis nº 00 - caixa com 100 unidades" que foi pedido 2987 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 2015 das vezes com associação de 67.46% e suporte de 0.05341852018769386 e confiança de 0.6745898895212588
+-----------------------------------------------------------------------------------
+O Material "Colchete nº 07" que foi pedido 1315 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 908 das vezes com associação de 69.05% e suporte de 0.024071472124280905 e confiança de 0.6904942965779468
+-----------------------------------------------------------------------------------
+O Material "Colchete nº 12" que foi pedido 2102 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1414 das vezes com associação de 67.27% e suporte de 0.03748575064287797 e confiança de 0.6726926736441484
+-----------------------------------------------------------------------------------
+O Material "Elástico nº 18" que foi pedido 2560 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1646 das vezes com associação de 64.30% e suporte de 0.043636170833222875 e confiança de 0.64296875
+-----------------------------------------------------------------------------------
+O Material "Extrator de grampo tipo espátula" que foi pedido 984 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 660 das vezes com associação de 67.07% e suporte de 0.017496885024257045 e confiança de 0.6707317073170732
+-----------------------------------------------------------------------------------
+O Material "Fita adesiva incolor" que foi pedido 1075 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 670 das vezes com associação de 62.33% e suporte de 0.017761989342806393 e confiança de 0.6232558139534884
+-----------------------------------------------------------------------------------
+O Material "Fita adesiva - Vermelha" que foi pedido 308 vezes. Foi pedido junto com:
+ "Caneta esferográfica azul" que apareceu em 189 das vezes com associação de 61.36% e suporte de 0.0050104716205827 e confiança de 0.6136363636363636
+ "Papel sulfite A4 branco 75g" que apareceu em 221 das vezes com associação de 71.75% e suporte de 0.005858805439940617 e confiança de 0.7175324675324676
+-----------------------------------------------------------------------------------
+O Material "Grampeador de papéis grande 266" que foi pedido 1467 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 902 das vezes com associação de 61.49% e suporte de 0.023912409533151296 e confiança de 0.6148602590320382
+-----------------------------------------------------------------------------------
+O Material "Grampo para grampeador 266" que foi pedido 2357 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1600 das vezes com associação de 67.88% e suporte de 0.04241669096789587 e confiança de 0.6788290199406024
+-----------------------------------------------------------------------------------
+O Material "Lápis preto nº 2" que foi pedido 2135 vezes. Foi pedido junto com:
+ "Caneta esferográfica azul" que apareceu em 1475 das vezes com associação de 69.09% e suporte de 0.039102886986029005 e confiança de 0.6908665105386417
+ "Papel sulfite A4 branco 75g" que apareceu em 1424 das vezes com associação de 66.70% e suporte de 0.03775085496142732 e confiança de 0.6669789227166276
+-----------------------------------------------------------------------------------
+O Material "Marca texto - amarelo" que foi pedido 4015 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 2666 das vezes com associação de 66.40% e suporte de 0.0706768113252565 e confiança de 0.6640099626400996
+-----------------------------------------------------------------------------------
+O Material "Pasta plástica em L - incolor - 230 x 335 mm" que foi pedido 1358 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 824 das vezes com associação de 60.68% e suporte de 0.02184459584846637 e confiança de 0.6067746686303387
+-----------------------------------------------------------------------------------
+O Material "Perfurador de papel" que foi pedido 606 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 378 das vezes com associação de 62.38% e suporte de 0.0100209432411654 e confiança de 0.6237623762376238
+-----------------------------------------------------------------------------------
+O Material "Pincel atômico - azul" que foi pedido 656 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 416 das vezes com associação de 63.41% e suporte de 0.011028339651652926 e confiança de 0.6341463414634146
+-----------------------------------------------------------------------------------
+O Material "Pincel atômico - preto" que foi pedido 1616 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1045 das vezes com associação de 64.67% e suporte de 0.02770340128840699 e confiança de 0.6466584158415841
+-----------------------------------------------------------------------------------
+O Material "Régua plástica - incolor - 30 cm" que foi pedido 807 vezes. Foi pedido junto com:
+ "Caneta esferográfica azul" que apareceu em 493 das vezes com associação de 61.09% e suporte de 0.013069642904482913 e confiança de 0.61090458488228
+ "Papel sulfite A4 branco 75g" que apareceu em 520 das vezes com associação de 64.44% e suporte de 0.013785424564566157 e confiança de 0.644361833952912
+-----------------------------------------------------------------------------------
+O Material "Tinta para carimbo de borracha - azul" que foi pedido 297 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 191 das vezes com associação de 64.31% e suporte de 0.005063492484292569 e confiança de 0.6430976430976431
+-----------------------------------------------------------------------------------
+O Material "Açúcar refinado" que foi pedido 3357 vezes. Foi pedido junto com:
+ "Café em pó" que apareceu em 2863 das vezes com associação de 85.28% e suporte de 0.07589936640067867 e confiança de 0.8528448019064641
+-----------------------------------------------------------------------------------
+O Material "Café em pó" que foi pedido 3823 vezes. Foi pedido junto com:
+ "Açúcar refinado" que apareceu em 2863 das vezes com associação de 74.89% e suporte de 0.07589936640067867 e confiança de 0.7488883076118231
+-----------------------------------------------------------------------------------
+O Material "Esponja dupla face" que foi pedido 832 vezes. Foi pedido junto com:
+ "Detergente Líquido - frasco 500ml" que apareceu em 634 das vezes com associação de 76.20% e suporte de 0.01680761379602874 e confiança de 0.7620192307692307
+ "Copo descartável para água 200 ml PP" que apareceu em 554 das vezes com associação de 66.59% e suporte de 0.014686779247633943 e confiança de 0.6658653846153846
+-----------------------------------------------------------------------------------
+O Material "Envelope 114x162mm branco" que foi pedido 294 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 191 das vezes com associação de 64.97% e suporte de 0.005063492484292569 e confiança de 0.6496598639455783
+-----------------------------------------------------------------------------------
+O Material "Etiqueta em folha - tamanho A4 - 2 por folha - 1996x1435mm" que foi pedido 1047 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 698 das vezes com associação de 66.67% e suporte de 0.01850428143474457 e confiança de 0.6666666666666666
+-----------------------------------------------------------------------------------
+O Material "Etiqueta 98x1385mm - 2 por folha A5" que foi pedido 1341 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 851 das vezes com associação de 63.46% e suporte de 0.022560377508549615 e confiança de 0.6346010439970171
+-----------------------------------------------------------------------------------
+O Material "Papel adesivo para recado - 76 x 102 mm - amarelo" que foi pedido 1904 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1237 das vezes com associação de 64.97% e suporte de 0.03279340420455449 e confiança de 0.6496848739495799
+-----------------------------------------------------------------------------------
+O Material "Papel adesivo para recado - 38 x 51 mm - amarelo" que foi pedido 1895 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1243 das vezes com associação de 65.59% e suporte de 0.0329524667956841 e confiança de 0.6559366754617414
+-----------------------------------------------------------------------------------
+O Material "Detergente Líquido - frasco 500ml" que foi pedido 1431 vezes. Foi pedido junto com:
+ "Papel toalha folha dupla - interfolhado" que apareceu em 874 das vezes com associação de 61.08% e suporte de 0.02317011744121312 e confiança de 0.6107617051013278
+ "Copo descartável para água 200 ml PP" que apareceu em 947 das vezes com associação de 66.18% e suporte de 0.025105378966623366 e confiança de 0.6617749825296995
+-----------------------------------------------------------------------------------
+O Material "Caneta Corretiva" que foi pedido 581 vezes. Foi pedido junto com:
+ "Caneta esferográfica azul" que apareceu em 358 das vezes com associação de 61.62% e suporte de 0.0094907346040667 e confiança de 0.6161790017211703
+ "Papel sulfite A4 branco 75g" que apareceu em 360 das vezes com associação de 61.96% e suporte de 0.00954375546777657 e confiança de 0.6196213425129088
+-----------------------------------------------------------------------------------
+O Material "Envelope para ofício - PJ - reciclado (229x114mm)" que foi pedido 1956 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1211 das vezes com associação de 61.91% e suporte de 0.03210413297632619 e confiança de 0.619120654396728
+-----------------------------------------------------------------------------------
+O Material "Copo descartável para café 50 ml PP" que foi pedido 5159 vezes. Foi pedido junto com:
+ "Copo descartável para água 200 ml PP" que apareceu em 4523 das vezes com associação de 87.67% e suporte de 0.11990668327987063 e confiança de 0.8767202946307424
+-----------------------------------------------------------------------------------
+O Material "Sabonete líquido - Capacidade: 5 litros" que foi pedido 894 vezes. Foi pedido junto com:
+ "Papel toalha folha dupla - interfolhado" que apareceu em 663 das vezes com associação de 74.16% e suporte de 0.01757641631982185 e confiança de 0.7416107382550335
+-----------------------------------------------------------------------------------
+O Material "Sabão em Pedra - Pedaço" que foi pedido 365 vezes. Foi pedido junto com:
+ "Detergente Líquido - frasco 500ml" que apareceu em 277 das vezes com associação de 75.89% e suporte de 0.007343389623816972 e confiança de 0.7589041095890411
+ "Papel toalha folha dupla - interfolhado" que apareceu em 243 das vezes com associação de 66.58% e suporte de 0.006442034940749184 e confiança de 0.6657534246575343
+ "Esponja dupla face" que apareceu em 223 das vezes com associação de 61.10% e suporte de 0.005911826303650486 e confiança de 0.6109589041095891
+ "Copo descartável para água 200 ml PP" que apareceu em 230 das vezes com associação de 63.01% e suporte de 0.0060973993266350305 e confiança de 0.6301369863013698
+-----------------------------------------------------------------------------------
+O Material "Pano de saco Alvejado" que foi pedido 301 vezes. Foi pedido junto com:
+ "Detergente Líquido - frasco 500ml" que apareceu em 237 das vezes com associação de 78.74% e suporte de 0.006282972349619575 e confiança de 0.7873754152823921
+ "Papel toalha folha dupla - interfolhado" que apareceu em 193 das vezes com associação de 64.12% e suporte de 0.005116513348002439 e confiança de 0.6411960132890365
+ "Esponja dupla face" que apareceu em 197 das vezes com associação de 65.45% e suporte de 0.005222555075422178 e confiança de 0.654485049833887
+ "Copo descartável para água 200 ml PP" que apareceu em 196 das vezes com associação de 65.12% e suporte de 0.005196044643567244 e confiança de 0.6511627906976745
+-----------------------------------------------------------------------------------
+O Material "Pano de prato" que foi pedido 357 vezes. Foi pedido junto com:
+ "Detergente Líquido - frasco 500ml" que apareceu em 242 das vezes com associação de 67.79% e suporte de 0.00641552450889425 e confiança de 0.6778711484593838
+ "Copo descartável para água 200 ml PP" que apareceu em 233 das vezes com associação de 65.27% e suporte de 0.006176930622199836 e confiança de 0.6526610644257703
+-----------------------------------------------------------------------------------
+O Material "Papel toalha picotado - pacote c 02 rolos" que foi pedido 1002 vezes. Foi pedido junto com:
+ "Copo descartável para água 200 ml PP" que apareceu em 764 das vezes com associação de 76.25% e suporte de 0.020253969937170276 e confiança de 0.7624750499001997
+-----------------------------------------------------------------------------------
+O Material "Elástico 10  mm  ( nº 86)" que foi pedido 790 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 480 das vezes com associação de 60.76% e suporte de 0.01272500729036876 e confiança de 0.6075949367088608
+-----------------------------------------------------------------------------------
+O Material "Água mineral natural com gás - garrafa de 300 a 350 ml" que foi pedido 587 vezes. Foi pedido junto com:
+ "Água mineral natural sem gás - garrafa de 300 a 350 ml" que apareceu em 471 das vezes com associação de 80.24% e suporte de 0.012486413403674346 e confiança de 0.8023850085178875
+-----------------------------------------------------------------------------------
+O Material "Cola branca líquida" que foi pedido 2313 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1523 das vezes com associação de 65.85% e suporte de 0.04037538771506588 e confiança de 0.6584522265456118
+-----------------------------------------------------------------------------------
+O Material "Fita crepe 18 mm x 50m" que foi pedido 369 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 230 das vezes com associação de 62.33% e suporte de 0.0060973993266350305 e confiança de 0.6233062330623306
+-----------------------------------------------------------------------------------
+O Material "APONTADOR DE LÁPIS - PLÁSTICO" que foi pedido 784 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 522 das vezes com associação de 66.58% e suporte de 0.013838445428276027 e confiança de 0.6658163265306123
+-----------------------------------------------------------------------------------
+O Material "Borracha para lápis branca" que foi pedido 1090 vezes. Foi pedido junto com:
+ "Caneta esferográfica azul" que apareceu em 668 das vezes com associação de 61.28% e suporte de 0.017708968479096525 e confiança de 0.6128440366972477
+ "Papel sulfite A4 branco 75g" que apareceu em 735 das vezes com associação de 67.43% e suporte de 0.019485167413377164 e confiança de 0.6743119266055045
+-----------------------------------------------------------------------------------
+O Material "Envelope plástico transparente 04 furos espessura 012" que foi pedido 317 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 195 das vezes com associação de 61.51% e suporte de 0.005169534211712309 e confiança de 0.6151419558359621
+-----------------------------------------------------------------------------------
+O Material "Cola em bastão 21g" que foi pedido 1742 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 1094 das vezes com associação de 62.80% e suporte de 0.029002412449298798 e confiança de 0.6280137772675086
+-----------------------------------------------------------------------------------
+O Material "Solução higienizadora bactericida a base de hipoclorito de sódio" que foi pedido 440 vezes. Foi pedido junto com:
+ "Detergente Líquido - frasco 500ml" que apareceu em 326 das vezes com associação de 74.09% e suporte de 0.008642400784708782 e confiança de 0.740909090909091
+ "Papel toalha folha dupla - interfolhado" que apareceu em 264 das vezes com associação de 60.00% e suporte de 0.006998754009702818 e confiança de 0.6
+ "Copo descartável para água 200 ml PP" que apareceu em 290 das vezes com associação de 65.91% e suporte de 0.0076880252379311256 e confiança de 0.6590909090909091
+-----------------------------------------------------------------------------------
+O Material "Papel higiênico folha dupla rolão 250 m" que foi pedido 1433 vezes. Foi pedido junto com:
+ "Papel toalha folha dupla - interfolhado" que apareceu em 1262 das vezes com associação de 88.07% e suporte de 0.033456165000927865 e confiança de 0.8806699232379623
+-----------------------------------------------------------------------------------
+O Material "Papel higiênico folha dupla rolo 30 m" que foi pedido 1391 vezes. Foi pedido junto com:
+ "Papel toalha folha dupla - interfolhado" que apareceu em 1111 das vezes com associação de 79.87% e suporte de 0.029453089790832693 e confiança de 0.798705966930266
+ "Copo descartável para água 200 ml PP" que apareceu em 884 das vezes com associação de 63.55% e suporte de 0.023435221759762467 e confiança de 0.6355140186915887
+-----------------------------------------------------------------------------------
+O Material "Filtro de papel para café - Tamanho 103" que foi pedido 1641 vezes. Foi pedido junto com:
+ "Açúcar refinado" que apareceu em 988 das vezes com associação de 60.21% e suporte de 0.0261923066726757 e confiança de 0.6020719073735528
+ "Café em pó" que apareceu em 1181 das vezes com associação de 71.97% e suporte de 0.031308820020678134 e confiança de 0.7196831200487508
+ "Copo descartável para água 200 ml PP" que apareceu em 1100 das vezes com associação de 67.03% e suporte de 0.02916147504042841 e confiança de 0.6703229737964655
+-----------------------------------------------------------------------------------
+O Material "Caneta marcador de mídia (CD DVD)" que foi pedido 1247 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 756 das vezes com associação de 60.63% e suporte de 0.0200418864823308 e confiança de 0.6062550120288693
+-----------------------------------------------------------------------------------
+O Material "Mexedor para café" que foi pedido 452 vezes. Foi pedido junto com:
+ "Copo descartável para água 200 ml PP" que apareceu em 324 das vezes com associação de 71.68% e suporte de 0.008589379920998914 e confiança de 0.7168141592920354
+-----------------------------------------------------------------------------------
+O Material "Molha dedos" que foi pedido 988 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 654 das vezes com associação de 66.19% e suporte de 0.017337822433127436 e confiança de 0.6619433198380567
+-----------------------------------------------------------------------------------
+O Material "Marcador de página - setinha" que foi pedido 418 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 265 das vezes com associação de 63.40% e suporte de 0.007025264441557753 e confiança de 0.6339712918660287
+-----------------------------------------------------------------------------------
+O Material "Estilete" que foi pedido 607 vezes. Foi pedido junto com:
+ "Papel sulfite A4 branco 75g" que apareceu em 389 das vezes com associação de 64.09% e suporte de 0.010312557991569682 e confiança de 0.6408566721581549
+-----------------------------------------------------------------------------------
+O Material "Palha de aço n° 0  (zero) - Tipo fina" que foi pedido 247 vezes. Foi pedido junto com:
+ "Detergente Líquido - frasco 500ml" que apareceu em 200 das vezes com associação de 80.97% e suporte de 0.0053020863709869834 e confiança de 0.8097165991902834
+-----------------------------------------------------------------------------------
+O Material "Apoio ergonômico para os pés" que foi pedido 657 vezes. Foi pedido junto com:
+ "Apoio de punho para teclado" que apareceu em 602 das vezes com associação de 91.63% e suporte de 0.01595927997667082 e confiança de 0.9162861491628614
+ "Pad mouse com apoio de punho ergonômico" que apareceu em 606 das vezes com associação de 92.24% e suporte de 0.01606532170409056 e confiança de 0.9223744292237442
+-----------------------------------------------------------------------------------
+O Material "Apoio de punho para teclado" que foi pedido 642 vezes. Foi pedido junto com:
+ "Apoio ergonômico para os pés" que apareceu em 602 das vezes com associação de 93.77% e suporte de 0.01595927997667082 e confiança de 0.9376947040498442
+ "Pad mouse com apoio de punho ergonômico" que apareceu em 602 das vezes com associação de 93.77% e suporte de 0.01595927997667082 e confiança de 0.9376947040498442
+-----------------------------------------------------------------------------------
+O Material "Pad mouse com apoio de punho ergonômico" que foi pedido 649 vezes. Foi pedido junto com:
+ "Apoio ergonômico para os pés" que apareceu em 606 das vezes com associação de 93.37% e suporte de 0.01606532170409056 e confiança de 0.9337442218798151
+ "Apoio de punho para teclado" que apareceu em 602 das vezes com associação de 92.76% e suporte de 0.01595927997667082 e confiança de 0.9275808936825886
+
+ -------------------------------------------- PERMANENTES ------------------------------------------------------------------
+ -------------------------------------------------------------------------------------------------------------------------------
+O Material "Mesa para refeitório - 6 lugares" que foi pedido 55 vezes. Foi pedido junto com:
+ "Cadeira para refeitório" que apareceu em 46 das vezes com associação de 83.64% e suporte de 0.014127764127764128 e confiança de 0.8363636363636363
+-----------------------------------------------------------------------------------
+O Material "Mesa de centro - cor mogno" que foi pedido 52 vezes. Foi pedido junto com:
+ "Gaveteiro volante - cor mogno" que apareceu em 36 das vezes com associação de 69.23% e suporte de 0.011056511056511056 e confiança de 0.6923076923076923
+-----------------------------------------------------------------------------------
+O Material "MARTELETE PERFURADOR ROMPEDOR - 110 Volts" que foi pedido 28 vezes. Foi pedido junto com:
+ "FURADEIRA ELÉTRICA COM IMPACTO - 110 Volts" que apareceu em 18 das vezes com associação de 64.29% e suporte de 0.005528255528255528 e confiança de 0.6428571428571429
+-----------------------------------------------------------------------------------
+O Material "DVD Player" que foi pedido 74 vezes. Foi pedido junto com:
+ ""Televisor 32"" LED"" que apareceu em 68 das vezes com associação de 91.89% e suporte de 0.020884520884520884 e confiança de 0.918918918918919
+-----------------------------------------------------------------------------------
+O Material "Mesa para refeitório - 4 lugares" que foi pedido 45 vezes. Foi pedido junto com:
+ "Cadeira para refeitório" que apareceu em 35 das vezes com associação de 77.78% e suporte de 0.01074938574938575 e confiança de 0.7777777777777778
+-----------------------------------------------------------------------------------
+O Material ""Televisor 32"" LED"" que foi pedido 74 vezes. Foi pedido junto com:
+ "DVD Player" que apareceu em 68 das vezes com associação de 91.89% e suporte de 0.020884520884520884 e confiança de 0.918918918918919
+ 
+ 
